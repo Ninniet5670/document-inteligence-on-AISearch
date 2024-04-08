@@ -1,0 +1,4 @@
+{
+    "@odata.context": "https://docuinteli.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+    "value": []
+}
